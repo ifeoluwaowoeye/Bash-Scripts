@@ -44,8 +44,8 @@ sudo chown -R www-data:www-data /var/www/html
 
 # DAtadog Connection
 #======================
-DD_API_KEY=eb943cbd572d5c68f2c7968fb1183503 \
-DD_APP_KEY=ddapp_UaMWlI9UXftUGNiU3aP26wuSoQBi42Bedi \
+DD_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \
+DD_APP_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \
 DD_SITE="uk1.datadoghq.com" \
 DD_APM_INSTRUMENTATION_ENABLED=host \
 DD_APM_INSTRUMENTATION_LIBRARIES=java:1,python:4,js:5,php:1,dotnet:3,ruby:2,nginx:1 \
